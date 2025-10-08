@@ -1,5 +1,7 @@
 :root {
     color-scheme: lightgray;
+    align-self: center;
+    flex: 1;
 }
 
 * {
@@ -9,12 +11,13 @@
 body {
     margin: 0;
     font-family: system-ui, sans-serif;
+    background: #f5f5f5;
 }
 
 .container {
     max-width: 820px;
     margin: 40px auto;
-    padding: 0 16px;
+    padding: 30px 16px;
 }
 
 .row {

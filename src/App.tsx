@@ -36,7 +36,7 @@ export default function App() {
     return (
         <div className="container">
             <h1>📚 Smart Librarian</h1>
-            <p>Ask for books by theme, genre, mood, or author.</p>
+            <p>Ask me for books by theme, genre, mood, or author.</p>
 
             <div className="row" style={{ marginTop: 12 }}>
                 <input
